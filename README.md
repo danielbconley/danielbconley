@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**danielbraydenconley/danielbraydenconley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel, a computer science student passionate about coding and technology. 💻
 
-Here are some ideas to get you started:
+## About Me 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing my degree in Computer Science.
+- 💡 Always eager to learn new things and explore the latest in tech.
+- 🌱 I’m currently a first year student
+- 👯‍♂️ I’m looking to collaborate on projects that challenge and inspire me.
+- 💬 Ask me about anything related to programming, algorithms, or tech in general!
+- 📫 You can reach me at | danielbraydenconley@gmail.com | linkedin.com/in/danielbraydeconley |
+- 🚗 Fun fact: I love classic cars!
+
+Let's connect and build something awesome together! 😊
