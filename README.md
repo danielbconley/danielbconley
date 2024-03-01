@@ -2,7 +2,7 @@
 
 My name is Daniel Conley, a computer science student passionate about coding and technology. 💻
 
-## About Me 😄
+## About Me 🧑‍💻
 
 - 🎓 Currently pursuing my degree in Computer Science.
 - 💡 Always eager to learn new things and explore the latest in tech.
