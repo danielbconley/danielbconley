@@ -10,6 +10,6 @@ My name is Daniel Conley, a computer science student passionate about coding and
 - 👯‍♂️ I’m looking to collaborate on projects that challenge and inspire me.
 - 💬 Ask me about anything related to programming, algorithms, or tech in general!
 - 📫 You can reach me by: [Email](mailto:danielbraydenconley@gmail.com) | [LinkedIn](https://www.linkedin.com/in/danielbraydenconley/)
-- 🚗 Fun fact: I love classic cars!
+
 
 Let's connect and build something awesome together! 😊
