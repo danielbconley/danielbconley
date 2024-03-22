@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Daniel Conley, a computer science student passionate about coding and technology. 💻
+My name is Daniel B. Conley, a computer science student passionate about coding and technology. 💻
 
 ## About Me 🧑‍💻
 
