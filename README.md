@@ -6,7 +6,7 @@ My name is Daniel B. Conley, a computer science student passionate about coding 
 
 - Currently pursuing my degree in Computer Science.
 - Always eager to learn new things and explore the latest in tech.
-- I’m currently a second year student.
+- I’m currently a third year student at University of Maryland, Baltimore County.
 - I’m looking to collaborate on projects that challenge and inspire me.
 - Ask me about anything related to programming, algorithms, or tech in general!
 - You can reach me by: [Email](mailto:danielbconley@outlook.com) | [LinkedIn](https://www.linkedin.com/in/danielbconley/)
